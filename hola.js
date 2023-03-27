@@ -1,3 +1,3 @@
-var mensaje = "Holla Mundo";
+var mensaje = "Hola Mundo";
 console.log(mensaje);
 document.write(mensaje);
